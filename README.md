@@ -24,7 +24,7 @@ The company’s cybersecurity team then investigated the security event. They fo
 
 -An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-# Incident Report Analysis 
+# Incident Report  
 
 ![Screenshot 2023-07-18 152133](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework/assets/19808403/f72d2603-fd66-4611-ab98-7ffd64fd48bc)
 ![Screenshot 2023-07-18 152154](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework/assets/19808403/16aabd04-4135-4e6c-a66b-4db3e6651674)
