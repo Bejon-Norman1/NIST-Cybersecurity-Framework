@@ -26,11 +26,9 @@ The company’s cybersecurity team then investigated the security event. They fo
 
 # Incident Report Analysis 
 
-<b>Summary:<b> The company faced a security incident that resulted in a complete halt of all network services. Through thorough analysis, the cybersecurity team determined that the disruption was a direct consequence of a distributed denial of service (DDoS) attack. This attack involved an overwhelming influx of ICMP packets, saturating the network infrastructure. To mitigate the impact, the team swiftly responded by implementing measures to block the attack and promptly suspended non-essential network services. This strategic action allowed them to prioritize the restoration of critical network services, ensuring minimal downtime and a return to normal operations.
-
-
-
-
+![Screenshot 2023-07-18 152133](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework/assets/19808403/f72d2603-fd66-4611-ab98-7ffd64fd48bc)
+![Screenshot 2023-07-18 152154](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework/assets/19808403/16aabd04-4135-4e6c-a66b-4db3e6651674)
+![Screenshot 2023-07-18 152216](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework/assets/19808403/93ec7ae9-f7db-4848-9ac5-27771be9b3fb)
 
 # Conclusion 
 
