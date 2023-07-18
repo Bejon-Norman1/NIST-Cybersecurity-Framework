@@ -24,3 +24,23 @@ The company’s cybersecurity team then investigated the security event. They fo
 
 -An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
+# Incident Report Analysis 
+
+<b>Summary<b>
+
+
+# Conclusion 
+
+In conclusion, this project provided by Google presented a network incident scenario that required a comprehensive analysis using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). By leveraging the NIST CSF's core components, namely Identify, Protect, Detect, Respond, and Recover, I conducted a systematic assessment of the incident and its associated risks. Based on the findings, I proposed actionable recommendations to enhance the organization's cybersecurity posture and mitigate future risks. These recommendations encompassed strengthening access controls, improving incident detection capabilities, streamlining incident response procedures, and enhancing data backup and recovery strategies.
+
+The incident report resulting from this analysis serves as a tangible demonstration of my professional proficiency in incident response and mitigation. It showcases my ability to apply industry best practices, such as the NIST CSF, to analyze and address network incidents effectively. By utilizing this framework, I emphasized the importance of a proactive and holistic approach to cybersecurity that encompasses identification, protection, detection, response, and recovery.
+
+Ultimately, this project not only allowed me to demonstrate my expertise in incident response but also reinforced the significance of adopting robust cybersecurity measures to safeguard organizations from potential threats and vulnerabilities.
+
+
+
+
+
+
+
+
